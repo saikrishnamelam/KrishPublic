@@ -1,0 +1,11 @@
+Oracle Cloud Breach Claims: Separating Fact from Misinformation
+
+A threat actor known as “rose87168” claimed to have attacked Oracle Cloud’s SSO and LDAP systems, stealing 6 million records. The compromised data purportedly includes JKS tokens, encrypted passwords, enterprise manager keys, and several other key files. The attacker is reportedly offering this data for sale on hacking forums.
+
+However, Oracle has firmly denied any breach of its cloud services. The company stated that the published credentials are no longer associated with Oracle Cloud.
+
+Given the situation, it is advisable to update and roll out passwords related to Oracle Cloud as a precautionary measure. 
+
+Additionally, with people actively searching for news about the alleged breach, many are unknowingly clicking on malicious links, potentially compromising their own security.
+
+The situation remains fluid, with ongoing investigations by cyber forensic analysts and independent verifiers.
